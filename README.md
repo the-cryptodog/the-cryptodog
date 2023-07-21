@@ -15,7 +15,7 @@ He excels in collaborative teamwork, and always fosters seamless cooperation amo
 contributing to positive and productive progress that leads to successful outcomes. He also specializes in international collaborations. With his former business experience, 
 he can transcend cultural and linguistic barriers in different teams from different countries and regions.
 
-Oh, and he loves dogs and cats and anything cute.
+Oh, and he loves dogs, cats, and anything cute.
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chenyuyu0515)
 
