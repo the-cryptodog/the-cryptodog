@@ -1,9 +1,9 @@
 
 
 ## Contact with Me
-- #### Who: 陳裕友 (Yu Yu, Khris Chen)
-- #### Email: chenyuyu0515@gmail.com
-- #### LinkedIn: www.linkedin.com/in/khrisyuyuchen
+- Who: 陳裕友 (Yu Yu, Khris Chen)
+- Email: chenyuyu0515@gmail.com
+- LinkedIn: www.linkedin.com/in/khrisyuyuchen
 
 
 ## Who is Khris Chen
