@@ -12,7 +12,7 @@
 Khris Chen is a seasoned Android developer with professional experience in scaled applications, 
 including car-sharing services, and apps with types similar to Airbnb, Uber, and related platforms. 
 
-He also excels in collaborative teamwork, and always fosters seamless cooperation among diverse teams, 
+He excels in collaborative teamwork, and always fosters seamless cooperation among diverse teams, 
 contributing to positive and productive progress that leads to successful outcomes. He also specializes in international collaborations. With his former business experience, 
 he can transcend cultural and linguistic barriers in different teams from different countries and regions.
 
