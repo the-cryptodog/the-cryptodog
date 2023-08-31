@@ -17,8 +17,6 @@ contributing to positive and productive progress that leads to successful outcom
 he can transcend cultural and linguistic barriers in different teams from different countries and regions.
 
 Apart from the above stories, he is optimistic, reliable, and always looks to be placing himself on God's humour.
-You will like him.
-
 ![Leetcode Stats](https://leetcard.jacoblin.cool/chenyuyu0515)
 
 
