@@ -18,6 +18,5 @@ he can transcend cultural and linguistic barriers in different teams from differ
 
 Apart from the above stories, he is optimistic, reliable, and always looks to be placing himself on God's humour.
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/chenyuyu0515)
 
 
